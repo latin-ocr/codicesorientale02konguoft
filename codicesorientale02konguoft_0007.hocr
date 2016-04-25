@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codicesorientale02konguoft_0007.png"; bbox 0 0 2390 3122; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 427 1952 553">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 199 427 1952 553">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 427 1952 553; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 199 427 644 547; x_wconf 66' lang='lat' dir='ltr'>comens</span> <span class='ocrx_word' id='word_1_2' title='bbox 707 430 1232 548; x_wconf 73' lang='lat' dir='ltr'><strong>fflfflRAlol</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1292 435 1422 549; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1491 435 1952 553; x_wconf 64' lang='lat' dir='ltr'>Ammo!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 405 774 1733 851">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 405 774 1733 851">
+     <span class='ocr_line' id='line_1_2' title="bbox 405 774 1733 851; baseline 0.005 -6"><span class='ocrx_word' id='word_1_5' title='bbox 405 774 941 849; x_wconf 76' lang='lat' dir='ltr'><strong>sslssLIOTHEGAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 986 775 1259 848; x_wconf 78' lang='lat' dir='ltr'><strong>REGIAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1306 778 1733 851; x_wconf 76' lang='lat' dir='ltr'>HAFNJENSlS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 710 1413 1432 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 710 1413 1432 1454">
+     <span class='ocr_line' id='line_1_3' title="bbox 710 1413 1432 1454; baseline -0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 710 1413 831 1453; x_wconf 61' lang='lat' dir='ltr'>ENL&#39;D</span> <span class='ocrx_word' id='word_1_9' title='bbox 832 1413 1432 1454; x_wconf 65' lang='lat' dir='ltr'><strong>IIIIIIIIIIIIIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1016 1984 1183 2005">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1016 1984 1183 2005">
+     <span class='ocr_line' id='line_1_4' title="bbox 1016 1984 1183 2005; baseline 0.006 -9"><span class='ocrx_word' id='word_1_10' title='bbox 1016 1999 1021 2002; x_wconf 74' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1032 1984 1183 2005; x_wconf 30' lang='grc' dir='ltr'><strong>ἐἐἐἐ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
